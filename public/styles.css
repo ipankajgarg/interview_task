@@ -1,0 +1,4 @@
+.ant-list-item-content {
+  display: flex;
+  justify-content: space-around;
+}
